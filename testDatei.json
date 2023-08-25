@@ -1,7 +1,7 @@
 [
     {
     "Vormane Nachname": "Jules",
-    "Stand Up Datum": "28,08.2023",
+    "Stand Up Datum": "28.08.2023",
     "Intakevorbereitungen": "Weiter Git und GitHub, Json Format, Partner Gespräch",
     "Intake Übungslaufe mit": "Hannah",
     "Zerfizierung und Deadline": "Automotive Softwaretest",
@@ -9,12 +9,8 @@
     },
     {
     "Vormane Nachname": "Yves",
-    "Stand Up Datum": "28-08-2023",
-<<<<<<< HEAD
+    "Stand Up Datum": "28.08.2023",
     "Intakevorbereitungen": "Weiter Git und GitHub, Json Format",
-=======
-    "Intakevorbereitungen": "Weiter Git und GitHub Json Format",
->>>>>>> 6630e2113249f478eae0c8485a5f10f8746e7abf
     "Intake Übungslaufe mit": "Hannah",
     "Zerfizierung und Deadline": "AWS 30-09-2023",
     "Sonnstiges": "Python"
@@ -29,7 +25,7 @@
     },
     {
     "Vormane Nachname": "Valeriya",
-    "Stand Up Datum": "24-08-2023",
+    "Stand Up Datum": "24.08.2023",
     "Intakevorbereitungen": "Oregon",
     "Intake Übungslaufe mit": "Jack2, Jill",
     "Zerfizierung und Deadline": "37898",

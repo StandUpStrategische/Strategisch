@@ -1,5 +1,39 @@
-Vorname Nachname,Stand Up Datum,Intakevorbereitungen,Intake Übungslaufe mit,Zerfizierung und Deadline,Sonnstiges
-Jules,28.08.2023,"Lernen von Git und GitHub, Json Format",Hannah,Automotive Softwaretest,Strategische Weiterentwicklung Meeting
-Yves,28.08.2023,Lernen von CI/CD und GitLab,Hannah,AWS 30-09-2023,jenkins
-Petru,28.08.2023,"JSON, GitHub, GitLab",Maik,ISTQB FL 31.08.23,Playwright
-Valeriya,28.08.2023,Urlaub, Urlaub, N/A , N/A 
+[
+    
+    {
+    "Kapitän": "X",
+    "Vorname Nachname": "Jules",
+    "Stand Up Datum": "28.08.2023",
+    "Intakevorbereitungen": "Lernen von Git und GitHub, Json Format",
+    "Intake Übungslaufe mit": "Hannah",
+    "Zerfizierung und Deadline": "Automotive Softwaretest",
+    "Sonnstiges": "Strategische Weiterentwicklung Meeting"
+    },
+    {
+    "Kapitän": "",
+    "Vorname Nachname": "Yves",
+    "Stand Up Datum": "28.08.2023",
+    "Intakevorbereitungen": "Lernen von CI/CD und GitLab",
+    "Intake Übungslaufe mit": "Hannah",
+    "Zerfizierung und Deadline": "AWS 30-09-2023",
+    "Sonnstiges": "jenkins"
+    },
+    {
+    "Kapitän": "",
+    "Vorname Nachname": "Petru",
+    "Stand Up Datum": "28.08.2023",
+    "Intakevorbereitungen": "JSON, GitHub, GitLab",
+    "Intake Übungslaufe mit": "Maik",
+    "Zerfizierung und Deadline": "ISTQB FL 31.08.23",
+    "Sonnstiges": "Playwright"
+    },
+    {
+    "Kapitän": "",
+    "Vorname Nachname": "Valeriya",
+    "Stand Up Datum": "28.08.2023",
+    "Intakevorbereitungen": "Urlaub",
+    "Intake Übungslaufe mit": " Urlaub",
+    "Zerfizierung und Deadline": " N/A ",
+    "Sonnstiges": " N/A "
+    }
+]

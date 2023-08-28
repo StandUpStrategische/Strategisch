@@ -1,7 +1,7 @@
 [
     
     {
-    "Kapitän": "X",
+    "Kapitän": "testetet",
     "Vorname Nachname": "Jules",
     "Stand Up Datum": "28.08.2023",
     "Intakevorbereitungen": "Lernen von Git und GitHub, Json Format",
@@ -25,7 +25,7 @@
     "Intakevorbereitungen": "JSON, GitHub, GitLab",
     "Intake Übungslaufe mit": "Maik",
     "Zerfizierung und Deadline": "ISTQB FL 31.08.23",
-    "Sonnstiges": "CI-CD"
+    "Sonnstiges": "Playwright"
     },
     {
     "Kapitän": "",

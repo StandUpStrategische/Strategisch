@@ -2,13 +2,13 @@
     
  
     {
-    "Kapitän": "PetruTest",
+    "Kapitän": "",
     "Vorname Nachname": "Petru",
-    "Stand Up Datum": "28.08.2023",
-    "Intakevorbereitungen": "JSON, GitHub, GitLab",
-    "Intake Übungslaufe mit": "Maik",
+    "Stand Up Datum": "29.08.2023",
+    "Intakevorbereitungen": "GitHub, GitLab,JSON",
+    "Intake Übungslaufe mit": "Hannah",
     "Zerfizierung und Deadline": "ISTQB FL 31.08.23",
-    "Sonnstiges": "Strategische Verfügbarkeit Meeting"
+    "Sonnstiges": "Playwright"
     }
    
 ]

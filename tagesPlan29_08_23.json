@@ -1,5 +1,5 @@
 [
-    
+   
     {
     "Kapitän": "X",
     "Vorname Nachname": "Jules",
@@ -9,5 +9,13 @@
     "Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
     "Sonnstiges": "Gespräch mit einem Partner"
     }
-    
+    {
+    "Kapitän": "PetruTest",
+    "Vorname Nachname": "Petru",
+    "Stand Up Datum": "28.08.2023",
+    "Intakevorbereitungen": "JSON, GitHub, GitLab",
+    "Intake Übungslaufe mit": "Maik",
+    "Zerfizierung und Deadline": "ISTQB FL 31.08.23",
+    "Sonnstiges": "Strategische Verfügbarkeit Meeting"
+    }
 ]

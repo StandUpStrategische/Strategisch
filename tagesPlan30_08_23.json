@@ -1,13 +1,11 @@
 [
-    
     {
-    "Kapitän": "PetruTest",
-    "Vorname Nachname": "Petru",
-    "Stand Up Datum": "28.08.2023",
-    "Intakevorbereitungen": "JSON, GitHub, GitLab",
-    "Intake Übungslaufe mit": "Maik",
-    "Zerfizierung und Deadline": "ISTQB FL 31.08.23",
-    "Sonnstiges": "Strategische Verfügbarkeit Meeting"
-    }
-   
+    "Kapitän": "X",
+    "Vorname Nachname": "Jules",
+    "Stand Up Datum": "30.08.2023",
+    "Intakevorbereitungen": " Lernen CI/CD und Git/GitHub ",
+    "Intake Übungslaufe mit": "N/A",
+    "Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
+    "Sonnstiges": " N/A"
+  }
 ]

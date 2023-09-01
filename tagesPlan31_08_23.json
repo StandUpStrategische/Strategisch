@@ -1,5 +1,4 @@
 [
-    
  
     {
     "Kapitän": "X",
@@ -9,6 +8,15 @@
     "Intake Übungslaufe mit": "N/A",
     "Zerfizierung und Deadline": "Automotive Softwaretest Prüfung vorausschtlich am 31.12.23",
     "Sonnstiges": "PHP"
+    },
+    {   
+  "Kapitän": " ",
+  "Vorname Nachname": "Yves",
+  "Stand Up Datum": "31.08.2023",
+  "Intakevorbereitungen": "Lernen von ETL, SQL Server",
+  "Intake Übungslaufe mit": " N/A",
+  "Zerfizierung und Deadline": "AWS 30-09-2023",
+  "Sonnstiges": "Jira, X-Ray"
     }
-   
+
 ]

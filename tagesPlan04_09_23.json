@@ -1,11 +1,32 @@
 [
-    {   "Kapitän": " ",
-        "Vorname Nachname": "Petru Walter",
-        "Stand Up Datum": "05.09.2023",
-        "Intakevorbereitungen": "GitLab, GitHub",
-        "Intake Übungslaufe mit": " N/A",
-        "Zerfizierung und Deadline": "ISTQB 01.10.23",
-        "Sonnstiges": "Jira,X-Ray"
+    { 
+    "Kapitän": " X ",
+    "Vorname Nachname": "Yves",
+    "Stand Up Datum": "04.09.2023",
+    "Intakevorbereitungen": "JavaScript",
+    "Intake Übungslaufe mit": " Maik, Vincent",
+    "Zerfizierung und Deadline": "AWS 30-09-2023",
+    "Sonnstiges": "Cypress"
+    },
+
+    {
+    "Kapitän": " ",
+    "Vorname Nachname": "Jules",
+    "Stand Up Datum": "04.09.2023",
+    "Intakevorbereitungen": " Intake mit dem Kunde SMA Solarenergy ",
+    "Intake Übungslaufe mit": "N/A",
+    "Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
+    "Sonnstiges": " N/A"
+   },
+
+    {  
+    "Kapitän": " ",
+    "Vorname Nachname": "Petru Walter",
+    "Stand Up Datum": "05.09.2023",
+    "Intakevorbereitungen": "GitLab, GitHub",
+    "Intake Übungslaufe mit": " N/A",
+    "Zerfizierung und Deadline": "ISTQB 01.10.23",
+    "Sonnstiges": "Jira,X-Ray"
     },
 
     {
@@ -18,3 +39,4 @@
     "Sonnstiges": "Git und GitHub"
     } 
 ]
+

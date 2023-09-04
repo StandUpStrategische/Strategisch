@@ -1,4 +1,3 @@
-
 [
     {   "Kapitän": " ",
         "Vorname Nachname": "Petru Walter",
@@ -9,7 +8,6 @@
         "Sonnstiges": "Jira,X-Ray"
     },
 
-
     {
     "Kapitän": "",
     "Vorname Nachname": "Valeriya",
@@ -18,6 +16,5 @@
     "Intake Übungslaufe mit": "N/A",
     "Zerfizierung und Deadline": "ISTQB Mobile App Testing bis 01.10.2023",
     "Sonnstiges": "Git und GitHub"
-    }
-   
+    } 
 ]

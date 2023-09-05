@@ -1,10 +1,23 @@
 [
-{   "Kapitän": "X",
-    "Vorname Nachname": "Yves",
-    "Stand Up Datum": "06.09.2023",
-    "Intakevorbereitungen": "JavaScript",
-    "Intake Übungslaufe mit": "N/A",
-    "Zerfizierung und Deadline": "AWS 30-09-2023",
-    "Sonnstiges": "Jenkins"
+  
+{
+"Kapitän": " ",
+"Vorname Nachname": "Jules",
+"Stand Up Datum": "06.09.2023",
+"Intakevorbereitungen": " AWS, CI/CD, Git, GitHub ",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
+"Sonnstiges": " "
+},
+  
+{   
+"Kapitän": "X",
+"Vorname Nachname": "Yves",
+"Stand Up Datum": "06.09.2023",
+"Intakevorbereitungen": "JavaScript",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "AWS 30-09-2023",
+"Sonnstiges": "Jenkins"
 }
+
 ]

@@ -1,3 +1,4 @@
+
 [
 {"Kapitän": " ",
 "Vorname Nachname": "Petru Walter",
@@ -6,6 +7,45 @@
  "Intake Übungslaufe mit": " N/A",
  "Zerfizierung und Deadline": "ISTQB 01.10.23",
  "Sonnstiges": "Jira,"
- }
+ },
+ {
+  "Kapitän": " ",
+  "Vorname Nachname": "Jules",
+  "Stand Up Datum": "05.09.2023",
+  "Intakevorbereitungen": " AWS, CI/CD ",
+  "Intake Übungslaufe mit": "N/A",
+  "Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
+  "Sonnstiges": " Git, GitHub, Jenkins"
+  },
+  
+  {  
+  "Kapitän": "X",
+  "Vorname Nachname": "Yves",
+  "Stand Up Datum": "05.09.2023",
+  "Intakevorbereitungen": "JavaScript",
+  "Intake Übungslaufe mit": "N/A",
+  "Zerfizierung und Deadline": "AWS 30-09-2023",
+  "Sonnstiges": "GitHub Actions"
+  },
+  
+  {
+   "Kapitän": " ",
+   "Vorname Nachname": "Petru Walter",
+   "Stand Up Datum": "05.09.2023",
+   "Intakevorbereitungen": "CI CD",
+   "Intake Übungslaufe mit": " N/A",
+   "Zerfizierung und Deadline": "ISTQB 01.10.23",
+   "Sonnstiges": "Jira,"
+   },
+  
+  {
+  "Kapitän": "",
+  "Vorname Nachname": "Valeriya",
+  "Stand Up Datum": "05.09.2023",
+  "Intakevorbereitungen": "Intake bei Kunde Catepilar in Mannheim",
+  "Intake Übungslaufe mit": "N/A",
+  "Zerfizierung und Deadline": "ISTQB Mobile App Testing bis 01.10.2023",
+  "Sonnstiges": "N/A"
+  }
+ 
 ]
-

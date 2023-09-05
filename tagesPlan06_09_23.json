@@ -1,5 +1,4 @@
-[
-  
+[  
 {
 "Kapitän": " ",
 "Vorname Nachname": "Jules",
@@ -18,6 +17,14 @@
 "Intake Übungslaufe mit": "N/A",
 "Zerfizierung und Deadline": "AWS 30-09-2023",
 "Sonnstiges": "Jenkins"
+},
+{
+"Kapitän": " ",
+"Vorname Nachname": "Petru Walter",
+"Stand Up Datum": "06.09.2023",
+"Intakevorbereitungen": "GitHub Git",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "ISTQB 01.10.23",
+"Sonnstiges": "Jira, Jenkins"
 }
-
 ]

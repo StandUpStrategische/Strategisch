@@ -1,11 +1,20 @@
 [
 {
-"Kapitän": "Petru",
+"Kapitän": "X",
 "Vorname Nachname": "Petru Walter",
 "Stand Up Datum": "11.09.2023",
 "Intakevorbereitungen": "Git, GitHub, Jenkins, Jira",
 "Intake Übungslaufe mit": "N/A",
 "Zerfizierung und Deadline": "ISTQB 01.10.23",
 "Sonnstiges": "Java-Vertiefung"
+},
+{
+"Kapitän": "",
+"Vorname Nachname": "Valeriya",
+"Stand Up Datum": "11.09.2023",
+"Intakevorbereitungen": "N/A",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "ISTQB Mobile App Testing bis 01.10.2023",
+"Sonnstiges": "N/A"
 }
 ]

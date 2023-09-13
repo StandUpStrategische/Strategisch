@@ -1,11 +1,22 @@
 [
-    {
-    "Kapitän": "",
-    "Vorname Nachname": "Valeriya",
-    "Stand Up Datum": "14.09.2023",
-    "Intakevorbereitungen": "N/A",
-    "Intake Übungslaufe mit": "N/A",
-    "Zerfizierung und Deadline": "ISTQB Mobile App Testing bis 01.10.2023",
-    "Sonnstiges": "Java"
-    }
-    ]
+{
+"Kapitän": "",
+"Vorname Nachname": "Valeriya",
+"Stand Up Datum": "14.09.2023",
+"Intakevorbereitungen": "N/A",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "ISTQB Mobile App Testing bis 01.10.2023",
+"Sonnstiges": "Java"
+},
+  
+
+{
+"Kapitän": "X",
+"Vorname Nachname": "Petru Walter",
+"Stand Up Datum": "14.09.2023",
+"Intakevorbereitungen": "CI/CD, Git, GitHub, Jenkins",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "ISTQB 01.10.23",
+"Sonnstiges": "Robot-Framework Gui-Testing"
+}
+]

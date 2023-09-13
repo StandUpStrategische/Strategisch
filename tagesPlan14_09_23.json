@@ -1,3 +1,4 @@
+
 [
 {
 "Kapitän": " ",
@@ -8,7 +9,15 @@
 "Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
 "Sonnstiges": "Vorbereitung auf das Projekt bei ZKV"
 },
- 
+{   
+"Kapitän": " ",
+"Vorname Nachname": "Yves",
+"Stand Up Datum": "14.09.2023",
+"Intakevorbereitungen": "Jenkins",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "AWS 30-09-2023",
+"Sonnstiges": "JavaScript"
+},
 {
 "Kapitän": "X",
 "Vorname Nachname": "Petru Walter",
@@ -28,4 +37,5 @@
 "Sonnstiges": "Java"
 }
 ]
+
 

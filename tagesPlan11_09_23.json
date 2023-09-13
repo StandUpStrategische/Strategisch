@@ -1,42 +1,41 @@
 [
+
 {
 "Kapitän": " ",
 "Vorname Nachname": "Jules",
-"Stand Up Datum": "08.09.2023",
-"Intakevorbereitungen": " Polarion, Gemini, Jira ",
+"Stand Up Datum": "11.09.2023",
+"Intakevorbereitungen": " Polarion, Gemini, Jira, Intake mit ZKV Elektronik GmbH ",
 "Intake Übungslaufe mit": "N/A",
 "Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
 "Sonnstiges": " AWS, CI/CD, Git, GitHub"
 },
 
 {   
-"Kapitän": "X",
+"Kapitän": " ",
 "Vorname Nachname": "Yves",
-"Stand Up Datum": "08.09.2023",
+"Stand Up Datum": "11.09.2023",
 "Intakevorbereitungen": "AWS Kurs",
 "Intake Übungslaufe mit": "N/A",
 "Zerfizierung und Deadline": "AWS 30-09-2023",
-"Sonnstiges": "Jenkins"
+"Sonnstiges": "Projekts Plan"
 },
-
 {
-"Kapitän": " ",
+"Kapitän": "X",
 "Vorname Nachname": "Petru Walter",
-"Stand Up Datum": "08.09.2023",
-"Intakevorbereitungen": "Git, GitHub, Jenkins",
+"Stand Up Datum": "11.09.2023",
+"Intakevorbereitungen": "Git, GitHub, Jenkins, Jira",
 "Intake Übungslaufe mit": "N/A",
 "Zerfizierung und Deadline": "ISTQB 01.10.23",
 "Sonnstiges": "Java-Vertiefung"
 },
-
 {
 "Kapitän": "",
 "Vorname Nachname": "Valeriya",
-"Stand Up Datum": "08.09.2023",
+"Stand Up Datum": "11.09.2023",
 "Intakevorbereitungen": "N/A",
 "Intake Übungslaufe mit": "N/A",
 "Zerfizierung und Deadline": "ISTQB Mobile App Testing bis 01.10.2023",
-"Sonnstiges": "Jira"
+"Sonnstiges": "N/A"
 }
-]
 
+]    

@@ -1,5 +1,15 @@
 [
 
+ {
+"Kapitän": " ",
+"Vorname Nachname": "Jules",
+"Stand Up Datum": "13.09.2023",
+"Intakevorbereitungen": "CI/CD, Git, GitHub",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
+"Sonnstiges": " "
+},
+  
 {   
 "Kapitän": " ",
 "Vorname Nachname": "Yves",
@@ -20,6 +30,7 @@
 "Zerfizierung und Deadline": "ISTQB 01.10.23",
 "Sonnstiges": "Robot-Framework Gui-Testing"
 },
+  
 {
 "Kapitän": "",
 "Vorname Nachname": "Valeriya",

@@ -1,11 +1,34 @@
 [
-    {
-    "Kapitän": " ",
-    "Vorname Nachname": "Jules",
-    "Stand Up Datum": "15.09.2023",
-    "Intakevorbereitungen": " Lernen CI/CD und Git/GitHub ",
-    "Intake Übungslaufe mit": "N/A",
-    "Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
-    "Sonnstiges": " Vorbereitung zur Eintig im Projekt bei ZVK Elektronik"
-  }
+
+{
+"Kapitän": " ",
+"Vorname Nachname": "Jules",
+"Stand Up Datum": "15.09.2023",
+"Intakevorbereitungen": " Lernen CI/CD und Git/GitHub ",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
+"Sonnstiges": " Vorbereitung zur Eintig im Projekt bei ZVK Elektronik"
+},
+
+{
+"Kapitän": "X",
+"Vorname Nachname": "Petru Walter",
+"Stand Up Datum": "15.09.2023",
+"Intakevorbereitungen": "CI/CD, Git, GitHub",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "ISTQB 01.10.23",
+"Sonnstiges": "Jira, Selenium"
+},
+
+{
+"Kapitän": "",
+"Vorname Nachname": "Valeriya",
+"Stand Up Datum": "15.09.2023",
+"Intakevorbereitungen": "N/A",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "ISTQB Mobile App Testing bis 01.10.2023",
+"Sonnstiges": "testautomatisierung mit Selenium für Java"
+}
+
 ]
+

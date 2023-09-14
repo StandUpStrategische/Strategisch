@@ -1,11 +1,20 @@
 [
 {
-"Kapitän": " ",
+"Kapitän": "testetet",
+"Vorname Nachname": "Jules",
+"Stand Up Datum": "28.08.2023",
+"Intakevorbereitungen": "Lernen von Git und GitHub, Json Format",
+"Intake Übungslaufe mit": "Hannah",
+"Zerfizierung und Deadline": "Automotive Softwaretest",
+"Sonnstiges": "Strategische Weiterentwicklung Meeting"
+},
+{
 "Vorname Nachname": "Yves",
-"Stand Up Datum": "15.09.2023",
-"Intakevorbereitungen": " Git, gitHub Jenkins ",
-"Intake Übungslaufe mit": "N/A",
-"Zerfizierung und Deadline": "AWS bis 30.09.2023",
-"Sonnstiges": " javaScript"
+"Stand Up Datum": "28.08.2023",
+"Intakevorbereitungen": "Lernen von CI/CD und GitLab",
+"Intake Übungslaufe mit": "Hannah",
+"Zerfizierung und Deadline": "AWS 30-09-2023",
+"Sonnstiges": "jenkins"
 }
 ]
+

@@ -1,3 +1,4 @@
+
 {
 "Kapitän": " ",
 "Vorname Nachname": "Yves",
@@ -7,3 +8,15 @@
 "Zerfizierung und Deadline": "AWS bis 30.09.2023",
 "Sonnstiges": " Docker "
 }
+
+{
+"Kapitän": " ",
+"Vorname Nachname": "Petru Walter",
+"Stand Up Datum": "18.09.2023",
+"Intakevorbereitungen": "CI/CD, Git, GitHub",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": " ",
+"Sonnstiges": "Playwright-JavaScript"
+}
+]
+

@@ -1,9 +1,20 @@
+[
 {
-    "Kapitän": " ",
-    "Vorname Nachname": "Yves",
-    "Stand Up Datum": "19.09.2023",
-    "Intakevorbereitungen": " Jenkins ",
-    "Intake Übungslaufe mit": "N/A",
-    "Zerfizierung und Deadline": "AWS bis 30.09.2023",
-    "Sonnstiges": " Docker, Kubernetes "
-    }
+"Kapitän": " ",
+"Vorname Nachname": "Yves",
+"Stand Up Datum": "19.09.2023",
+"Intakevorbereitungen": " Jenkins ",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "AWS bis 30.09.2023",
+"Sonnstiges": " Docker, Kubernetes "
+},
+{
+"Kapitän": " ",
+"Vorname Nachname": "Petru Walter",
+"Stand Up Datum": "19.09.2023",
+"Intakevorbereitungen": "Git, GitHub, JSON",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": " ",
+"Sonnstiges": "Playwright-JavaScript"
+}
+]

@@ -1,6 +1,15 @@
 [
 {
 "Kapitän": " ",
+"Vorname Nachname": "Yves",
+"Stand Up Datum": "20.09.2023",
+"Intakevorbereitungen": " Jenkins ",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "AWS bis 30.09.2023",
+"Sonnstiges": " Docker"
+},
+{
+"Kapitän": " ",
 "Vorname Nachname": "Petru Walter",
 "Stand Up Datum": "20.09.2023",
 "Intakevorbereitungen": "Jenkins, Git, GitHub, JSON",

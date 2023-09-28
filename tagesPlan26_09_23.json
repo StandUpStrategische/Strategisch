@@ -1,5 +1,14 @@
 [
 {
+  "Kapitän": "X",
+  "Vorname Nachname": "Yves",
+  "Stand Up Datum": "26.09.2023",
+  "Intakevorbereitungen": " Jenkins ",
+  "Intake Übungslaufe mit": "N/A",
+  "Zerfizierung und Deadline": "AWS bis 30.09.2023",
+  "Sonnstiges": " JavaScript"
+},
+{
 "Kapitän": " ",
 "Vorname Nachname": "Jules",
 "Stand Up Datum": "26.09.2023",
@@ -17,3 +26,4 @@
 "Sonnstiges": "YouTrack"
 }
 ]
+

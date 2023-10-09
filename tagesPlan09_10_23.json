@@ -1,5 +1,13 @@
-
 [
+{
+"Kapitän": "X ",
+"Vorname Nachname": "Jules",
+"Stand Up Datum": "09.10.2023",
+"Intakevorbereitungen": " Gespräche mit Partner ",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
+"Sonnstiges": " CI/CD, Git, GitHub"
+},
 {
 "Kapitän": "",
 "Vorname Nachname": "Yves",
@@ -19,6 +27,5 @@
 "Sonnstiges": "Jira, SoupUI"
 }
 ]
-
 
 

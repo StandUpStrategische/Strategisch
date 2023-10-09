@@ -1,6 +1,15 @@
 [
 {
-"Kapitän": "",
+"Kapitän": " ",
+"Vorname Nachname": "Jules",
+"Stand Up Datum": "06.10.2023",
+"Intakevorbereitungen": " N/A ",
+"Intake Übungslaufe mit": "Gespräche mit Partnern",
+"Zerfizierung und Deadline": "Automotive Softwaretest Prüfung vorausschtlich am 31.12.23",
+"Sonnstiges": "CI/CD, jenkins"
+},
+{
+"Kapitän": " ",
 "Vorname Nachname": "Yves",
 "Stand Up Datum": "06.10.2023",
 "Intakevorbereitungen": "JavaScript",
@@ -12,9 +21,10 @@
 "Kapitän": "X",
 "Vorname Nachname": "Petru Walter",
 "Stand Up Datum": "06.10.2023",
-"Intakevorbereitungen": "Cucumber/Gherkin, Jenkins",
+"Intakevorbereitungen": "Cucumber, Gherkin, Jenkins",
 "Intake Übungslaufe mit": "N/A",
 "Zerfizierung und Deadline": "N/A",
-"Sonnstiges": "SoupUI"
+"Sonnstiges": "SoupUI, Confluence"
 }
 ]
+

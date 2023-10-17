@@ -1,4 +1,13 @@
-
+[
+{
+"Kapitän": " ",
+"Vorname Nachname": "Jules",
+"Stand Up Datum": "17.10.2023",
+"Intakevorbereitungen": "Robotframework, JMeter",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
+"Sonnstiges": " CI/CD, jenkins, GitHub"
+},
 {
 "Kapitän": "X",
 "Vorname Nachname": "Yves",
@@ -7,4 +16,15 @@
 "Intake Übungslaufe mit": "N/A",
 "Zerfizierung und Deadline": "AWS bis 30.10.2023",
 "Sonnstiges": "Jmeter"
+},
+{
+"Kapitän": " ",
+"Vorname Nachname": "Petru Walter",
+"Stand Up Datum": "17.10.2023",
+"Intakevorbereitungen": "JMeter",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "N/A",
+"Sonnstiges": "CI/CD, GitHub"
 }
+]
+

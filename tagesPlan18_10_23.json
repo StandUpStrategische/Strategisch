@@ -1,4 +1,5 @@
 [
+
     {
     "Kapitän": " ",
     "Vorname Nachname": "Jules",
@@ -7,5 +8,15 @@
     "Intake Übungslaufe mit": "N/A",
     "Zerfizierung und Deadline": "Automotive Softwaretest Prüfung voraussichtlich bis 31.12.2023",
     "Sonnstiges": " CI/CD"
-    }
+    },
+{
+"Kapitän": " ",
+"Vorname Nachname": "Petru Walter",
+"Stand Up Datum": "18.10.2023",
+"Intakevorbereitungen": "SQL",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "N/A",
+"Sonnstiges": "Java, CI/CD, GitHub"
+}
+
 ]

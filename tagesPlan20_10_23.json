@@ -1,5 +1,14 @@
 [
 {
+"Kapitän": "X",
+"Vorname Nachname": "Yves",
+"Stand Up Datum": "20.10.2023",
+"Intakevorbereitungen": "Cypress",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "AWS bis 30.10.2023",
+"Sonnstiges": "React js"
+},
+{
 "Kapitän": " ",
 "Vorname Nachname": "Petru Walter",
 "Stand Up Datum": "20.10.2023",
@@ -9,3 +18,4 @@
 "Sonnstiges": "XRay, Jira, GitHub"
 }
 ]
+

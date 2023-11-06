@@ -1,0 +1,29 @@
+[
+{
+"Kapitän": " ",
+"Vorname Nachname": "Jules",
+"Stand Up Datum": "01.11.2023",
+"Intakevorbereitungen": "N/A ",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": " ",
+"Sonnstiges": "Jenkins"
+},    
+{
+"Kapitän": " ",
+"Vorname Nachname": "Yves",
+"Stand Up Datum": "01.11.2023",
+"Intakevorbereitungen": "N/A ",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": " ",
+"Sonnstiges": "Krank"
+},   
+{
+"Kapitän": "X",
+"Vorname Nachname": "Petru Walter",
+"Stand Up Datum": "01.11.2023",
+"Intakevorbereitungen": "Selenium",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "N/A",
+"Sonnstiges": "Java, Jira, GitHub"
+}
+]

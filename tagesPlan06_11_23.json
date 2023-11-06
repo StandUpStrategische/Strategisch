@@ -1,3 +1,4 @@
+[
 {
 "Kapitän": "X",
 "Vorname Nachname": "Yves",
@@ -6,4 +7,15 @@
 "Intake Übungslaufe mit": "N/A",
 "Zertifizierung und Deadline": "AWS bis 30.12.2023",
 "Sonstiges": "JavaScript"
+},
+{
+"Kapitän": " ",
+"Vorname Nachname": "Petru Walter",
+"Stand Up Datum": "06.11.2023",
+"Intakevorbereitungen": "SQL",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "N/A",
+"Sonnstiges": "Jenkins, GitHub"
 }
+]
+

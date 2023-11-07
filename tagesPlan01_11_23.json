@@ -2,28 +2,28 @@
 {
 "Kapitän": " ",
 "Vorname Nachname": "Jules",
-"Stand Up Datum": "31.10.2023",
+"Stand Up Datum": "01.11.2023",
 "Intakevorbereitungen": "N/A ",
 "Intake Übungslaufe mit": "N/A",
-"Zerfizierung und Deadline": "Automotive Softwaretest Prüfung vorausschtlich am 31.12.23",
+"Zerfizierung und Deadline": " ",
 "Sonnstiges": "Jenkins"
-},
+},    
 {
 "Kapitän": " ",
 "Vorname Nachname": "Yves",
-"Stand Up Datum": "31.10.2023",
-"Intakevorbereitungen": "Zertifizierung Prüfungsvorbereitung ",
+"Stand Up Datum": "01.11.2023",
+"Intakevorbereitungen": "N/A ",
 "Intake Übungslaufe mit": "N/A",
-"Zertifizierung und Deadline": "AWS bis 30.12.2023",
-"Sonstiges": "JavaScript, Docker"
-},
+"Zerfizierung und Deadline": " ",
+"Sonnstiges": "Krank"
+},   
 {
 "Kapitän": "X",
 "Vorname Nachname": "Petru Walter",
-"Stand Up Datum": "31.10.2023",
+"Stand Up Datum": "01.11.2023",
 "Intakevorbereitungen": "Selenium",
 "Intake Übungslaufe mit": "N/A",
 "Zerfizierung und Deadline": "N/A",
-"Sonnstiges": "JS, Jenkins, GitHub"
+"Sonnstiges": "Java, Jira, GitHub"
 }
 ]

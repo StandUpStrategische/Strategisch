@@ -10,6 +10,15 @@
 },
 {
 "Kapitän": " ",
+"Vorname Nachname": "Yves",
+"Stand Up Datum": "16.11.2023",
+"Intakevorbereitungen": "AWS Cloud Prüfungsvorbereitung",
+"Intake Übungslaufe mit": "N/A",
+"Zertifizierung und Deadline": "AWS bis 30.12.2023",
+"Sonstiges": "Docker "
+},
+{
+"Kapitän": " ",
 "Vorname Nachname": "Petru Walter",
 "Stand Up Datum": "16.11.2023",
 "Intakevorbereitungen": "Java",
@@ -18,4 +27,3 @@
 "Sonnstiges": "Selenium, GitHub"
 }
 ]
-

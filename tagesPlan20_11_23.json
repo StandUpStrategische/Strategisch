@@ -1,6 +1,15 @@
 [
 {
 "Kapitän": " ",
+"Vorname Nachname": "Jules",
+"Stand Up Datum": "20.11.2023",
+"Intakevorbereitungen": "N/A ",
+"Intake Übungslaufe mit": "N/A",
+"Zerfizierung und Deadline": "Automotive Softwaretest Prüfung vorausschtlich am 31.12.23",
+"Sonnstiges": " Selenium Framework"
+},
+{
+"Kapitän": " ",
 "Vorname Nachname": "Yves",
 "Stand Up Datum": "20.11.2023",
 "Intakevorbereitungen": "AWS Cloud Prüfungsvorbereitung",
@@ -18,4 +27,5 @@
 "Sonnstiges": "Selenium, GitHub"
 }
 ]
+
 

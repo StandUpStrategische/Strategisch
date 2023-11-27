@@ -1,4 +1,23 @@
+
 [
+{
+"Kapitän": " ",
+"Vorname Nachname": "Jules",
+"Stand Up Datum": "23.11.2023",
+"Intakevorbereitungen": "N/A ",
+"Intake Übungslaufe mit": " Bench Kollegen",
+"Zerfizierung und Deadline": "Automotive Softwaretest Prüfung vorausschtlich am 31.12.23",
+"Sonnstiges": " Selenium Framework, Python"
+},
+{
+"Kapitän": " ",
+"Vorname Nachname": "Yves",
+"Stand Up Datum": "23.11.2023",
+"Intakevorbereitungen": "AWS Cloud Prüfungsvorbereitung",
+"Intake Übungslaufe mit": "N/A",
+"Zertifizierung und Deadline": "AWS bis 30.12.2023",
+"Sonstiges": "Docker"
+},
 {
 "Kapitän": "X",
 "Vorname Nachname": "Petru Walter",
@@ -9,3 +28,5 @@
 "Sonnstiges": "Selenium, GitHub"
 }
 ]
+
+

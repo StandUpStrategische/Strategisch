@@ -1,4 +1,13 @@
-[
+
+{
+"Kapitän": "X",
+"Vorname Nachname": "Yves",
+"Stand Up Datum": "28.11.2023",
+"Intakevorbereitungen": "N/A",
+"Intake Übungslaufe mit": "N/A",
+"Zertifizierung und Deadline": "AWS SAA-C03 bis 30.04.2024",
+"Sonstiges": "Cypress, JavaScript"
+},
 {
 "Kapitän": " ",
 "Vorname Nachname": "Jules",
@@ -18,3 +27,4 @@
 "Sonnstiges": "Selenium, GitHub, "
 }
 ]
+

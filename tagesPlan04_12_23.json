@@ -1,3 +1,4 @@
+
 [
 {
 "Kapitän": "X",
@@ -10,6 +11,15 @@
 },
 {
 "Kapitän": " ",
+"Vorname Nachname": "Yves",
+"Stand Up Datum": "04.12.2023",
+"Intakevorbereitungen": "Runde Vorbereitung",
+"Intake Übungslaufe mit": "Jules, Petru",
+"Zertifizierung und Deadline": "AWS SAA-C03 bis 30.04.2024",
+"Sonstiges": "Docker, JavaScript"
+},
+{
+"Kapitän": " ",
 "Vorname Nachname": "Petru Walter",
 "Stand Up Datum": "04.12.2023",
 "Intakevorbereitungen": "Confluence, Jira",
@@ -18,4 +28,3 @@
 "Sonnstiges": "JavaScript,GitHub, "
 }
 ]
-
